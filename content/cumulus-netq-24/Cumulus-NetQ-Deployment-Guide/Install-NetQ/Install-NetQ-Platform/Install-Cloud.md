@@ -2,10 +2,6 @@
 title: Install NetQ as a Cloud Deployment
 author: Cumulus Networks
 weight: 80
-aliases:
- - /display/NETQ/Install+NetQ
- - /pages/viewpage.action?pageId=12320951
-pageID: 12320951
 toc: 5
 draft: true
 ---

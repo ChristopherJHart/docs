@@ -2,10 +2,6 @@
 title: Install NetQ as an On-premises Deployment
 author: Cumulus Networks
 weight: 70
-aliases:
- - /display/NETQ/Install+NetQ
- - /pages/viewpage.action?pageId=12320951
-pageID: 12320951
 toc: 5
 draft: true
 ---

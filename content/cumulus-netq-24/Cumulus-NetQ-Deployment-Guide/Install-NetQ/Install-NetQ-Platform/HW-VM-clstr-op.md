@@ -2,10 +2,6 @@
 title: Choose a Virtual Machine for an On-premises Server Cluster
 author: Cumulus Networks
 weight: 111
-aliases:
- - /display/NETQ/Install+NetQ
- - /pages/viewpage.action?pageId=12320951
-pageID: 12320951
 toc: 5
 bookhidden: true
 ---
